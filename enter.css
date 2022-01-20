@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+}
+
+body, div{
+  margin: 0;
+  padding: 0;
+}
+.photo{
+  background-image: url(http://drive.google.com/uc?export=view&id=1smOoHWXaZF13Nu0LjlqljtvB5VHoJZ3m);
+  width: 1366px;
+  height:768px ;
+  background-position: center;
+  background-size: cover;
+  display: grid;
+  align-content: center;
+  justify-content: center;
+}
+h1{
+  color: white;
+}
+h1:hover
+{
+  color: red;
+}
+  a {
+    text-decoration:none;
+}
+
